@@ -1,2 +1,0 @@
-# Vibezz
-music streaming website
